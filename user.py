@@ -13,7 +13,7 @@ def main():
                 record['current_time'] = datetime.utcnow().isoformat()
                 # current time, text , label , id
                 producer.send(topic=TOPIC_PREPROCESSING, value=record, partition= DOMAINS.index(record['domain']))
-                print(f"{DOMAINS.index(record['domain'])} <- {record}")
+                print(f"{record} -> {DOMAINS.index(record['domain'])}")
                 print("============")
                 producer.flush()
                 time.sleep(DELAY)

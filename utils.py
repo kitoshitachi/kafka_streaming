@@ -1,19 +1,25 @@
-import socket, json, re
+import socket, json, re, pickle
 from kafka import KafkaProducer, KafkaConsumer, KafkaAdminClient
 from settings import BOOTSTRAP_SERVERS, NUM_PARTITIONS, REPLICATION_FACTOR, DOMAINS
 from kafka.errors import TopicAlreadyExistsError
 from kafka.admin.new_topic import NewTopic
 from pyvi.ViTokenizer import tokenize as tokenizer
 from pyvi.ViPosTagger import postagging
-from torchtext.vocab import build_vocab_from_iterator
-from torchtext.data import get_tokenizer
-from typing import List, Dict
 
 def json_encode(data):
-    return json.dumps(data).encode('utf-8')
+    try:
+        data = json.dumps(data).encode('utf-8')
+    except Exception:
+        data = pickle.dumps(data)
+
+    return data
 
 def json_decode(data):
-    return json.loads(data.decode('utf-8'))    
+    try:
+        data = json.loads(data.decode('utf-8'))
+    except Exception:
+        data = pickle.loads(data, encoding='utf-8')
+    return data
 
 def create_producer():
     '''creat kafka producer
@@ -120,23 +126,6 @@ def extract_feature(text_preproced:str):
 	feature += get_feature(text_preproced)
 	return feature
 
-class Language:
-    def __init__(self, data:List[str], min_freq:int = 2):
-        specials = ["<pad>", "<unk>",  "<sos>", "<eos>"]
-
-        self.vocab = build_vocab_from_iterator(self.__yield_tokens(data), min_freq, specials)
-        self.vocab.set_default_index(1)
-    
-    @staticmethod
-    def __tokenizer(text:str):
-        return list(map(lambda word: re.sub('_', ' ', word),text.split()))
-
-    def __yield_tokens(self, data:List[str]):
-        for line in data:
-            yield self.__tokenizer(line)
-
-    def lookup_tokens(self, vec:List[int]):
-        return self.vocab.lookup_tokens(vec)
-
-    def text_pipeline(self, sent:str) -> List[int]:
-        return [2,*self.vocab.lookup_indices(self.__tokenizer(sent)),3]
+def add_padding_sent(sent:str):
+  words = sent.split()
+  return " ".join(words + ['<pad>']*(128 - len(words)))
