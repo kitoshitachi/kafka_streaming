@@ -1,0 +1,401 @@
+id,text,label
+0,giảng viên cho nhiều bài tập để làm .,positive
+1,cần cung cấp tài liệu bài giảng đầy đủ ngay từ những ngày đầu bắt đàu học .,negative
+2,chất lượng phòng thực hành quá kém .,negative
+3,"nên tăng cường học nghe , nói .",negative
+4,học gần công trình thì công thật không thể chịu nổi .,negative
+5,"giảng viên dạy tốt , nhiệt tình .",positive
+6,giảng viên vui tính dễ tương tác với sinh viên .,positive
+7,"cô vui vẻ , giúp lớp cùng nhau hoạt động sôi nổi .",positive
+8,"thầy nhiệt tình , quan tâm tới sinh viên .",positive
+9,nội dung có liên hệ nhiều với thực tế .,positive
+10,thầy nhiệt huyết và giảng bao quát đề cập đến nhiều khía cạnh của bài học vấn đề .,positive
+11,có nhiều kiến thức mở rộng .,positive
+12,cần hiểu rõ thêm cách kết nối prolog với c .,negative
+13,"tận tâm , nhiệt tình , quan tâm đến sinh viên .",positive
+14,thầy dạy rất tốt và nhiệt tình .,positive
+15,cho bài tập nhiều em rất thích colonsmile .,positive
+16,giảng viên làm rất tốt trong việc giảng dạy bộ môn thực hành .,positive
+17,"âm thanh thầy giảng hơi nhỏ , khó khăn trong việc nghe giảng .",negative
+18,"đồng thời , giảng viên rất tích cực , năng nổ trong việc giảng dạy , cung cấp cho sinh viên nhiều kiến thức bổ ích và cũng luôn vui vẻ , hoà đồng nhằm khiến sinh viên cảm thấy thoải mái khi đến lớp .",positive
+19,"nhiệt tình , tâm huyết .",positive
+20,chưa tương tác nhiều với sinh viên .,negative
+21,thầy rất quan tâm đến khó khăn gặp phải của sinh viên trong lúc thực hành .,positive
+22,"thầy dạy khá hay , cung cấp nhiều thông tin liên quan đến môn học , đưa ra nhiều hướng giải quyết khi sinh viên gặp vấn đề khó khăn với đồ án !",positive
+23,không nên làm một bài tập nhóm quá lớn làm khó khăn cho sinh viên .,negative
+24,"những điều này nghe tưởng chừng không liên quan đến môn học , nhưng lại giúp cho sinh viên phần nào có định hướng được công việc tương lai của mình .",positive
+25,"nghe , nói luyện tập cao .",positive
+26,được học nhiều kinh nghiệm từ thầy wzjwz163 .,positive
+27,phương pháp truyền đạt của giảng viên chưa hiệu quả lắm .,negative
+28,"thầy dạy hay và đưa ví dụ rất sát , dễ dàng hiểu bài khi trên lớp .",positive
+29,"yêu cầu đối với sinh viên cao , nhưng lại không đáp ứng cho sinh viên những kiến thức cần thiết .",negative
+30,cần nói rõ hơn bằng cách trình bày lên bảng thay vì nhìn vào slide .,negative
+31,"cô dạy rất là nhiệt tình , dễ tiếp thu không chỉ hỗ trợ về kiến thức môn học mà về kỹ năng mềm cô rất quan tâm đến sinh viên về cả phần học tập cũng như cuộc sống .",positive
+32,cô cũng rất thân thiện và gần gũi với sinh viên .,positive
+33,điện thoại không liên lạc được .,negative
+34,em mong môn này có thể áp dụng nhiều hơn trong những đồ án .,negative
+35,cần tăng cường hoạt động nhóm và cần nhiều bài tập hơn cho môn học .,negative
+36,đề thực hành quá khó .,negative
+37,tận tụy với sinh viên .,positive
+38,làm cho người học bị rối .,negative
+39,"giảng viên dạy có hiệu quả cao , mang tính thực tiễn .",positive
+40,sử dụng máy chiếu slide ví dụ cụ thể hơn .,negative
+41,hiện tại em chưa thấy tác dụng gì nhiều khi học môn này .,negative
+42,cô nên hoạt động trên website môn học nhiều hơn .,negative
+43,"vui tính , cách giảng thu hút .",positive
+44,"ghi quá nhiều , giảng dạy còn khó hiểu , nên sửa bài tập cho về .",negative
+45,thầy dạy rất tốt và trả lời các câu hỏi của sinh viên rất nhanh và chính xác .,positive
+46,đề thi cuối kỳ quá dài so với thời gian kiểm tra .,negative
+47,mong giáo viên có thể giải đáp nhiều bài tập cho sinh viên hơn trên lớp .,negative
+48,nội dung thực hành nên sát với lý thuyết hơn .,negative
+49,"không dùng điểm để đánh giá , nó làm sinh viên không dám thực hiện .",negative
+50,"những sinh viên được lòng giảng viên trên lớp sẽ qua môn một cách dễ dàng , còn những sinh viên còn lại chỉ cần sai sót nhỏ sẽ rớt môn .",negative
+51,"bài tập được làm nhiều , ân cần , tận tụy .",positive
+52,"gây bối rối , hoang mang cho sinh viên trong những quyết định về bài tập , đồ án , không rõ ràng , không quyết định chính xác .",negative
+53,"thích ngủ thì ngủ , ngoài ra chả có gì hài lòng .",negative
+54,"cô giảng rất hay , rất nhiệt tình khi giảng dạy , rất vui tính .",positive
+55,"giảng viên còn chưa tận tâm , phong cách giảng dạy chưa thu hút được sinh viên .",negative
+56,mong thầy giảng giải và cho bài tập từng bước nhiều hơn .,negative
+57,cập nhật tài liệu đầy đủ cho sinh viên !,negative
+58,hướng dẫn học sinh giải bài tập tốt .,positive
+59,kiến thức học khá vừa sức với sinh viên .,positive
+60,khả năng truyền đạt tốt .,positive
+61,có một bạn trong phòng của em học thầy ở học kỳ trước hâm mộ thầy !,positive
+62,nhắn tin xem mà không trả lời .,negative
+63,"chất lượng giảng dạy tốt , tâm huyết nhiệt tình .",positive
+64,có quá nhiều bài tập .,negative
+65,"cách truyền đạt kiến thức của thầy đối với em thì em cảm thấy không phù hợp lắm , em cần phải rất rất tập trung và hỏi đi hỏi lại nhiều lần mới có thể nắm bắt kiến thức .",negative
+66,"giáo viên luôn chia sẻ những ứng dụng của kiến thức đã học với thực tiễn , chia sẻ khá nhiều kinh nghiệm thực tế vô cùng bổ ích với sinh viên .",positive
+67,thầy rất đúng giờ giấc .,positive
+68,"nhiệt tình , tân tâm .",positive
+69,"tài liệu giảng viên luôn soạn đầy đủ , dễ hiểu .",positive
+70,"quá nhiều bài tập , tốn rất nhiều thời gian mà hiệu quả không có .",negative
+71,"thầy giảng rất kỹ và dễ hiểu , cho rất nhiều bài tập giúp sinh viên ứng dụng và nhớ được những gì đã học .",positive
+72,giảng viên áp dụng mô hình scrum để làm project là tốt nhưng không thành công .,negative
+73,"dạy kiến thức khá là cao cấp , vượt hơn khả năng hiểu biết của đa số sinh viên .",negative
+74,sự nhiệt huyết của giáo viên .,positive
+75,giáo trình quá ít và nội dung không khác nhau là mấy .,negative
+76,cô thường xuyên kiểm tra bài .,positive
+77,"giảng dạy khó hiểu , gây áp lực quá nhiều , kéo dài thời gian giảng dạy làm sinh viên không thể ăn trưa .",negative
+78,giải đáp thắc mắc và không bao giờ dạy hụt bài .,positive
+79,môn học tuy khó nhưng kiến thức rất có ý nghĩa cho sau này .,positive
+80,thành thật mà nói thì sau khi học buổi đầu xong thì em không muốn học thêm buổi thứ hai .,negative
+81,nên chú trọng vào thực hành .,negative
+82,đề thi quá khó so với bài tập trên lớp !,negative
+83,giảng viên có khả năng truyền đạt kiến thức tốt .,positive
+84,"máy chiếu khá mờ , âm thanh gặp nhiều vấn đề trục trặc .",negative
+85,chưa đào sâu vào các vấn đề mà chỉ nói đụng đến phần bề mặt và tốn nhiều thời gian vào các vấn đề đơn giản .,negative
+86,"cô giảng rất chán slide tiếng anh dùng nhiều từ chuyên ngành , nên nếu không bắt kịp những gì cô giảng thì cũng khó để hiểu được bài giảng .",negative
+87,nhiệt tình trong công việc .,positive
+88,không đăng bài tập hằng tuần sớm để sinh viên có thời gian thực hiện .,negative
+89,"giảng viên dạy rất nhiệt tình , giúp đỡ sinh viên rất nhiều .",positive
+90,giảng viên rất có tâm huyết .,positive
+91,"tận tâm , giảng dạy tốt .",positive
+92,"thường xuyên vắng mặt , sinh viên đến học không có giảng viên , không rõ lý do , không có bất cứ thông báo nào trước , gây lãng phí thời gian , chi phí đi lại của sinh viên .",negative
+93,thầy dạy rất sơ sài hầu như chỉ trong slide .,negative
+94,gộp chung 2 lớp khác khóa lại với nhau dẫn đến sự không cân bằng về kiến thức giữa 2 lớp gây khó khăn cho lớp dưới .,negative
+95,"thầy dạy không có sức hút , nhàm chán , gây buồn ngủ cho sinh viên .",negative
+96,"chứ như tình trạng hiện tại là môn thực hành học trước , qua kỳ sau mới được học lý thuyết thì mất đi tính tiếp nối kiến thức trong quá trình học .",negative
+97,"thầy không nên cho code trước mà nên để sinh viên tự làm , như vậy sinh viên sẽ nhớ lâu hơn .",negative
+98,"giáo viên vui tính , hòa đồng , nhiệt tình .",positive
+99,"giảng viên tận tâm với việc dạy học , tạo cảm hứng học tập cho sinh viên .",positive
+100,"kiến thức thực tiễn của thầy rộng , giảng dạy vui vẻ .",positive
+101,"nhờ thầy và giảng viên lý thuyết , em đã hiểu rõ về môn này rất nhiều !",positive
+102,"thầy rất nhiệt tình , nói rất nhiều đến khản giọng mà sức truyền tải không bằng thầy wzjwz159 .",positive
+103,"tiến độ dạy còn chậm , những phần dễ cần đi nhanh hơn một chút giới thiệu lướt qua , những phần khó như sắp xếp quick soft trở lên , cây nên làm rõ hơn .",negative
+104,"nên có phần thực hành về tìm hiểu phần cứng , các bộ phận trong máy tính .",negative
+105,"giảng dạy nhiệt tình , hài hước .",positive
+106,"nội dung tiết học còn lan man , cảm tưởng như thầy đang dạy về tiếng anh chuyên ngành , chứ không đào sâu về kỹ thuật .",negative
+107,cô cũng không cung cấp hay giải thích gì đáp án của bài thi .,negative
+108,"môn học rất khó , giảng viên nên giải nhiều bài tập trên lớp hơn .",negative
+109,cô giảng dạy tận tình .,positive
+110,nhiệt tình giải đáp mọi thắc mắc của sinh viên .,positive
+111,thầy truyền tải đầy đủ kiến thức .,positive
+112,"khi thi thì thời gian quá ngắn để thực hiện trình bày dù đã nghĩ ra cách giải dạy sinh viên "" làm nhanh những việc dễ "" dạy sinh viên thành "" thợ "" .",negative
+113,tài liệu được bổ sung nhiều và đầy đủ trên moodle .,positive
+114,có những cái cô dạy lan man ngoài phần thi không cần thiết .,negative
+115,"theo em , tài liệu môn học còn thiếu .",negative
+116,"thang điểm đưa ra đầu khóa học không rõ ràng , nhất quán so với thang điểm cuối khóa .",negative
+117,"tiếp cận với sinh viên một cách thân thiện , phương pháp dạy khoa học , dễ tiếp thu , dễ hiểu .",positive
+118,"thầy dạy phần lý thuyết hay , nắm bắt được khả năng của sinh viên .",positive
+119,"giảng viên dạy hơi nhanh , đôi lúc không bắt kịp bài .",negative
+120,"thầy giảng rất dễ hiểu và thú vị , thu hút .",positive
+121,thầy rất khắt khe trong việc dùng từ chuyên ngành .,positive
+122,"cô tận tâm , nhiệt tình giúp đỡ .",positive
+123,"giảng viên dạy dễ hiểu , nhiệt tình giảng giải cho sinh viên .",positive
+124,phòng thực hành wzjwz53 cần được nâng cấp .,negative
+125,có một số phần giảng viên giải thích hơi khó hiểu .,negative
+126,"nói khó nghe , dạy hơi nhanh .",negative
+127,cho nhiều bài tập để học tập cũng như ôn thi .,positive
+128,"giảng dạy tận tình , giải đáp thắc mắc thường xuyên .",positive
+129,làm phim khó quá thầy ạ .,negative
+130,"giảng viên nhiệt tình , giảng dạy từ từ , dễ hiểu .",positive
+131,"thầy dạy nhiệt tình , có tâm .",positive
+132,một số vấn đề cơ bản giảng viên nên lược bớt để không tốn thời gian .,positive
+133,"theo em thì trường nên tổ chức thêm những buổi seminar về các phần mềm , giới thiệu về các hướng phát triển phần mềm trong bộ môn này .",negative
+134,hay bị về trễ colonsad .,negative
+135,thầy dạy rất dễ hiểu sinh động .,positive
+136,cô wzjwz259 rất vui và nhiệt tình .,positive
+137,không sửa các bài tập thực hành .,negative
+138,"giảng viên dạy truyền cảm hứng , sử dụng thời gian hợp lý .",positive
+139,"giảng dạy tích cực , hiệu quả .",positive
+140,"cô dạy cực kỳ nhiệt tình , hiểu tâm lý học sinh , cách giảng bài hay .",positive
+141,"mong thầy vui tính , gần gũi với sinh viên hơn .",positive
+142,"việc truyền đạt kiến thức chưa sâu , em thấy vẫn mông lung sau mỗi tiết học , chỉ hiểu sơ sơ .",negative
+143,truyền đạt nhiều kiến thức cần thiết .,positive
+144,"thầy quá bảo thủ , thầy luôn cho rằng ý kiến của thầy là đúng nhất , ngoài ra mọi ý kiến khác đều sai .",negative
+145,"giảng viên có tâm , ân cần , nhiệt tình , dạy dễ hiểu .",positive
+146,em rất hài lòng về phương pháp giảng dạy của thầy ạ .,positive
+147,thầy giúp em biết mạch số là gì .,positive
+148,"em hy vọng là nội dung bài học sẽ cập nhật các phiên bản công nghệ mới , gần đây nhất .",negative
+149,"cách giảng bài dễ hiểu , hay .",positive
+150,thầy nhiệt tình giảng dạy .,positive
+151,giảng bài dễ hiểu chuyên sâu .,positive
+152,"đôi lúc hỏi một số câu hỏi rất mơ hồ khiến sinh viên không biết đang được hỏi về khía cạnh nào , cũ hay mới ( chương trước hay chương hiện tại ) .",negative
+153,môn học chỉ nên thuyết trình tìm hiểu về egov không làm đồ án .,negative
+154,"chấm điểm dựa trên mức độ thấu hiểu bài , hay đưa ra lời khuyên hữu ích .",positive
+155,"cô cực kỳ nhiệt huyết , cô rất dễ thương colonlove cô yêu học trò của mình , cô cực kỳ khách quan , phong cách làm việc của cô rất giống người nước ngoài , em thích cô .",positive
+156,giảng viên nên nói tiếng anh sau đó giải thích nghĩa .,negative
+157,"giáo viên tận tâm , nhiệt tình , cách truyền đạt dễ tiếp thu .",positive
+158,"giảng rất dễ hiểu , hướng dẫn làm thực hành tốt .",positive
+159,"đến khi cuối kỳ , chỉ cần sinh viên mắc một sai sót nhỏ thì sẽ rớt môn .",negative
+160,"giảng không hiểu , nói nhiều .",negative
+161,"giảng dạy hay , nhiệt tình .",positive
+162,"phòng học quá sáng , màn chiếu bị mờ rất khó nhìn , xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy .",negative
+163,cần dạy chi tiết hơn .,negative
+164,thầy thường xuyên bận việc đột xuất và báo nghỉ sát giờ .,negative
+165,"giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên .",negative
+166,giảng tận tình vui vẻ .,positive
+167,giảng bài dễ tiếp thu nhiệt tình .,positive
+168,"cô tận tình , dạy dễ hiểu , không gây áp lực cho sinh viên .",positive
+169,không thực hành được buổi nào .,negative
+170,"luyện tập nhóm , làm bài tập nhiều .",positive
+171,"thầy rất nhiệt tình , luôn đưa ra những ví dụ thực tế rất sinh động .",positive
+172,giảng viên cần phân bổ số lượng bài tập tương đồng với nội dung lý thuyết .,negative
+173,thầy dạy lý thuyết suông quá ạ .,negative
+174,"nói to , chậm rãi , dễ hiểu , truyền đạt nhiều kiến thức quan trọng , có tính thực tế .",positive
+175,"em nghĩ chỉ nên bắt buộc các bài tập có dạng căn bản , còn bài tập tương tự thì chỉ khuyến khích sinh viên làm thêm .",negative
+176,giúp em hiểu ra được nhiều cái hay .,positive
+177,"chưa tạo động lực , thúc đẩy sinh viên nhiều .",negative
+178,"thầy wzjwz177 rất gần gũi với sinh viên , thầy phát âm tiếng anh cũng rất dễ nghe .",positive
+179,"thầy rất hiểu tâm lý học sinh , rất vui vẻ trong việc dạy .",positive
+180,thầy dạy cho nghỉ nhiều .,negative
+181,lên lớp đầy đủ nhưng không biết mặt thầy là ai .,negative
+182,"cần nâng cấp hệ thống wifi , vì khi vào phòng thực hành , sinh viên không thể truy cập internet , buộc phải xin phép ra ngoài để làm bài .",negative
+183,cần kết nối được mạng trong phòng lab .,negative
+184,cần có bài giảng trên slide và nhiều ví dụ hơn .,negative
+185,mỗi ngày khi đến môn học này là một cực hình tra tấn sinh viên cả lớp .,negative
+186,giảng viên đã dạy tốt .,positive
+187,không có buổi học bù nào .,negative
+188,"cô dạy nhiệt tình , tận tâm , dễ hiểu .",positive
+189,"thầy giảng bài tận tâm , nhiệt tình .",positive
+190,"thầy nhiệt tình , đi dạy đầy đủ , vui vẻ .",positive
+191,"thầy truyền đạt rất tận tình , dễ hiểu lượng bài tập , nội dung thi hợp lý , vừa sức với sinh viên .",positive
+192,giảng viên thường không lên lớp nếu có lên lớp thì chỉ ngồi lỳ một chổ không giảng bài hay hướng dẫn sinh viên thực hành .,negative
+193,cảm thấy hứng thú khi lên lớp .,positive
+194,"mỗi học kỳ có thể là đồ án khác nhau cho toàn bộ sinh viên để doubledot tránh tình trạng "" xào "" lại các đồ án cũ, nên có chung một quy tắc chuẩn để chấm điểm cho sinh viên .",negative
+195,giọng thầy nơi hơi buồn ngủ .,negative
+196,trình bày bài giảng một cách khoa học và hợp lý .,positive
+197,"cách truyền đạt kiến thức đối với em là rất hiệu quả , trao đổi bài với sinh viên , cô rất nhiệt tình !",positive
+198,rất thích được học cô .,positive
+199,cách chấm điểm của giảng viên không đánh giá đúng năng lực của sinh viên .,negative
+200,"giảng viên tận tâm , tạo điều kiện cho học sinh làm bài tập .",positive
+201,cô tận tình với sinh viên .,positive
+202,ít giải bài tập trên lớp .,negative
+203,"giảng viên nhiệt tình , phương pháp giảng dạy hiệu quả .",positive
+204,"dạy khá nâng cao , cần phát huy để sinh viên có cơ hội được học thêm nhiều hơn .",negative
+205,dạy tốt đúng trọng tâm những gì cần biết .,positive
+206,nhiệt tình giải thích cho sinh viên .,positive
+207,"cách dạy của thầy chưa hiệu quả , nhiều lúc còn nâng đỡ một số sinh viên .",negative
+208,không đáp ứng được đề cương môn học đề ra .,negative
+209,thầy giảng còn hơi khó hiểu khó tiếp thu .,negative
+210,"giảng viên quan tâm tận tình tới sinh viên , truyền đạt hiệu quả .",positive
+211,"giảng viên dạy đúng giờ , dễ hiểu , bám sát đề cương .",positive
+212,giảng quá nhiều không đánh vào trọng tâm .,negative
+213,luôn nhiệt tình trong giảng dạy .,positive
+214,"phòng học buổi trưa rất nóng , có thể trang bị thêm quạt thì tốt hơn .",negative
+215,thầy dạy tốt và tâm huyết .,positive
+216,nhiều tâm huyết với nghề .,positive
+217,chưa áp dụng công nghệ thông tin và các thiết bị hỗ trợ cho việc giảng dạy .,negative
+218,mong ban thiết bị sớm khắc phục ạ !,negative
+219,em thấy phòng thư viện tầng trên mà bọn em học không hề phù hợp với việc học anh văn vì thiết kế bảng và hệ thống máy tính khiến bọn em cứ phải mỏi cổ ngoảnh sang trái hoặc sang phải suốt cả buổi học vì bọn em cũng chả dùng máy tính để làm gì trong giờ học anh văn cả .,negative
+220,"giáo viên giảng dạy tốt , phát huy tốt khả năng nghe nói và đọc của sinh viên .",positive
+221,"thầy dạy rất hay và dễ hiểu , tập trung sát vào phần trọng tâm .",positive
+222,"khó hiểu , không sinh động .",negative
+223,có sai nhận sai và sửa đổi khắc phục .,negative
+224,"cách giảng dạy rất hiệu quả , lớp học vui .",positive
+225,"thầy đẹp trai , dạy dễ hiểu , hay trò chuyện thực tiễn với học sinh .",positive
+226,"cách trả lời thắc mắc cho sinh viên về bài học khiến sinh viên khó chịu ( vì sinh viên chưa hoàn hảo nên đôi lúc có những câu hỏi "" trên trời "" , thầy có kinh nghiệm thì nên chỉ rõ lỗi sai của sinh viên chứ không nên hỏi vặn vẹo , gây khó chịu ) .",negative
+227,sự nhiệt tình và tận tâm của thầy .,positive
+228,"phần máy tính không hỗ trợ cho việc học nhiều , chỉ làm sinh viên phân tán .",negative
+229,nội dung hơi nhiều nên giảm bớt lại .,negative
+230,phương pháp giảng dạy của giảng viên giúp anh fraction chị hiểu được và vận dụng được kiến thức .,positive
+231,"thưa , thầy luôn đặt nền tảng kỹ và cho chúng em tìm tòi học hỏi nâng cao .",positive
+232,giảng viên không cung cấp đủ tài liệu để làm đồ án .,negative
+233,"cô lên lớp đúng giờ , giảng bài rất dễ hiểu cho sinh viên .",positive
+234,"thầy tận tâm , nhiệt tình .",positive
+235,nhiều khi đang làm thực hành mà không có mạng để tìm hiểu thứ mình cần .,negative
+236,"giảng viên tận tâm , nhiệt tình , hỗ trợ giải đáp thắc mắc môn học cho sinh viên .",positive
+237,"cung cấp và thường xuyên cập nhật thêm tài liệu về môn học nhiều hơn , sử dụng giờ lên lớp hiệu quả hơn .",negative
+238,"đi học thể dục thật ra em không biết thầy nào với thầy nào đâu , vì lâu lâu mới có thầy dạy .",negative
+239,giảng viên hướng dẫn nhiệt tình .,positive
+240,"thầy có hướng dẫn đồ án rất tận tình , luôn giải đáp các câu hỏi và thắc mắc của sinh viên về đồ án rất nhanh .",positive
+241,thầy cho làm các bài tập tại lớp trong khi sinh viên chưa biết gì về vấn đề đó .,negative
+242,bằng chứng là kỳ thi cuối kỳ điểm trải dài từ 1 - 5 điểm .,negative
+243,đây là điều gây bức xúc với sinh viên .,negative
+244,cô giảng rất dễ hiểu và tận tâm với học sinh .,positive
+245,"giờ thực hành quá ít , bài tập thực hành hằng tuần đều đó , giảng viên hướng dẫn không có nhiều thời gian để hướng dẫn trực tiếp .",negative
+246,tạo niềm vui cho bọn em tuy lý thuyết bọn em rất đuối sức .,positive
+247,nên phát hành giáo trình chuẩn cho môn học .,negative
+248,cách truyền đạt của giáo viên chưa có sức hút đối với sinh viên nhiều cho lắm .,negative
+249,"cách truyền đạt kiến thức kém hiệu quả , cô dạy giống như là không dạy , chỉ đọc chữ trong slide rồi cho sinh viên làm bài tập .",negative
+250,"lý do lý thuyết không hiểu , dẫn đến thực hành cũng không hiểu .",negative
+251,"cô nhiệt tình và đưa ra bài giảng hợp lý , dễ hiểu , có thể vận dụng làm bài .",positive
+252,nên tìm được phương pháp dễ hình dung và thực tiễn hơn .,negative
+253,"vui vẻ , tận tâm , nhiệt huyết , nhiều kinh nghiệm .",positive
+254,sinh viên được được thuyết trình nhưng thật sự chưa hiểu quả .,negative
+255,"giáo viên thân thiện , giảng giải dễ hiểu .",positive
+256,bài tập cần đa dạng hơn .,negative
+257,"slide bài giảng còn lẫn lộn anh việt , phần tiếng việt thì giảng viên lại dùng google dịch nên đọc không hiểu .",negative
+258,toàn đến gần thi thầy mới dạy hết chương trình học .,negative
+259,phòng wzjwz325 thiết bị âm thanh hay xảy ra trục trặc làm gián đoạn buổi học .,negative
+260,"máy chiếu phòng wzjwz104 rất hay tắt , mở được một lúc là nóng quá rồi tắt , không sử dụng được nữa .",negative
+261,"giảng viên giảng hay , giúp sinh viên tiếp thu kiến thức hiệu quả .",positive
+262,"thầy dễ thương , nhiệt tình .",positive
+263,cô dạy hơi nhanh nên em không kịp hiểu .,negative
+264,"thầy rất nhiệt tình , thường nói thêm để mở rộng kiến thức cho sinh viên và thẳng thắn chỉ ra những thiếu sót của slide bài giảng để sinh viên không mắc sai lầm và hiểu rõ vấn đề .",positive
+265,nhà trường nên cho thực hành mỗi tuần một lần .,negative
+266,"giảng viên nhiệt tình , hỗ trợ sinh viên tốt .",positive
+267,"hòa đồng , vui vẻ và biết tiếp thu ý kiến sinh viên .",positive
+268,em rất vui khi được học tập dưới sự giảng dạy tận tâm của cô .,positive
+269,cô giảng bài dễ hiểu .,positive
+270,"đầu tư phòng lab thực hành trên thiết bị thật , có quy mô .",negative
+271,"cô nhiệt tình , giảng bài kỹ .",positive
+272,giảng viên rất đúng giờ .,positive
+273,"tuy nhiên cô nên cân nhắc lại về số lượng yêu cầu đối với sinh viên để sinh viên không bị khớp vì quá nhiều dẫn đến làm qua loa cho có , như vậy thì kết quả lại không tốt .",negative
+274,thì có thể lướt nhanh hơn vì phần này khá dễ .,negative
+275,dạy lý thuyết hơi nhiều .,negative
+276,nếu có thì chỉ hướng dẫn bằng lý thuyết mà không làm bài tập mẫu cho sinh viên .,negative
+277,"cô giảng bài còn ít chỗ khó hiểu , không sâu sắc .",negative
+278,"cô giáo tận tâm , nhiệt tình .",positive
+279,"tuy nhiên , giờ trên lớp thầy chưa thực sự sử dụng hiệu quả lắm khi thiếu tương tác với sinh viên trong lớp để nắm tình hình học viên của mình .",negative
+280,slide up đầy đủ trước mỗi buổi học .,positive
+281,"đảm bảo giờ lên lớp , truyền đạt hiệu quả , tích cực .",positive
+282,"giảng viên tận tình , giảng dạy hay , chất lượng .",positive
+283,"giảng viên cần chú ý thêm về vấn đề lịch thi speaking , thông báo cho sinh viên biết và chuẩn bị trước nội dung thi .",negative
+284,dạy theo sát chương trình .,positive
+285,"tập trung giảng dạy những kiến thức có ích cho chuyên ngành sau này hơn , những kiến thức không quan trọng nên bỏ qua hoặc dạy lướt qua .",negative
+286,"khi tụi em học môn đặc tả hình thức thầy wzjwz169 giảng dạy thì tụi em không hiểu thầy đang nói gì , không hiểu được môn này học để làm gì và nó có ứng dụng vào thực tiễn như thế nào .",negative
+287,"giảng viên rất tận tâm , chu đáo .",positive
+288,giảng dạy rất nhiệt huyết .,positive
+289,"em thành thật chia sẻ , khoa nên bỏ môn học này .",negative
+290,cung cấp các tài liệu ít .,negative
+291,"phòng học quá nóng , thiếu quạt .",negative
+292,nên có thêm ví dụ cụ thể của giảng viên cho từng dạng toán thay vì chỉ sửa bài tập của sinh viên .,negative
+293,nên có sự thống nhất giữa các giảng viên bộ môn trong đề cương giảng dạy .,negative
+294,"sinh viên năm 3 trở lên đều có laptop cả rồi , vậy nên vào phòng máy là không cần thiết .",negative
+295,"thầy nên cập nhật những kiến thức mới , thay vì vẫn sử dụng những nội dung kiến thức cũ .",negative
+296,"cô vui tính , hiền , khá nhiệt tình và gần gũi với sinh viên colonsmilesmile .",positive
+297,em mong phần thực hành được hỗ trợ nhiều hơn nữa từ phía giảng viên .,negative
+298,thầy vui tính và thân thiện với sinh viên .,positive
+299,"tiết học vui vẻ , thoải mái .",positive
+300,em rất hài lòng về phương pháp giảng dạy của thầy .,positive
+301,rất nhiệt tình với sinh viên .,positive
+302,chia nhóm làm đồ án rất hay .,positive
+303,dạy khó hiểu quá nhanh .,negative
+304,cần thêm nhiều kit để thực hành .,negative
+305,có những kiến thức cần thiết trong khi thực hành nhưng lý thuyết rất lâu sau mới dạy đến .,negative
+306,"thầy không gửi tài liệu , thông báo lên moodle , thầy thường xuyên bận nên không đảm bảo giờ gặp sinh viên như đã thông báo .",negative
+307,"giảng viên nhiệt tình thân thiện , giảng dạy có kế hoạch , đảm bảo kiến thức .",positive
+308,em rất hài lòng với cô .,positive
+309,thầy wzjwz123 dạy rất hay và rất nhiệt tình !,positive
+310,"giáo viện nhiệt tình , tận tâm .",positive
+311,nhiệt tình với học sinh .,positive
+312,"thầy dạy cực kỳ nhiệt tình , chắc là hơn 10 mấy năm đi học cả phổ thông lẫn đại học mới thấy được thầy dạy nhiệt tình vậy .",positive
+313,em rất thích học cô .,positive
+314,nên để giáo viên có kinh nghiệm dạy môn này .,negative
+315,"môn học cần được thiết kế chi tiết hơn từng phần học cụ thể để sinh viên dễ tiếp cận như doubledot học lập trình console và win form lẫn lộn , sinh viên chưa có cái nhìn khái quát và tổng thể về vấn đề cần làm dẫn đến khó tìm lối đi trong sự hỗn loạn kiễn thức , không có phương hướng kết quả học tập không cao , không hứng thú và đam mê .",negative
+316,thầy luôn cố gắng giúp học sinh hiểu rõ bản chất .,positive
+317,deadline các bài tập thực hành không cố định .,negative
+318,cần thêm nhiều tài liệu cho sinh viên .,negative
+319,thầy luôn chủ động tạo tranh luận và kiểm tra bài tập đầu giờ để sinh viên dễ dàng nắm bắt kiến thức .,positive
+320,"cảm ơn cô và chúc cô nghỉ đẻ vui vẻ , mẹ tròn con vuông !",positive
+321,chưa được tham gia chiến dịch thực tế và tham quan công ty .,negative
+322,thầy nên nói chậm lại một tí .,negative
+323,chưa truyền đạt kiến thức một cách hiệu quả nhất .,negative
+324,"thầy wzjwz252 giảng bài rất thu hút , kiến thức thầy rất rộng , luôn giải đáp thắc mắc cho sinh viên .",positive
+325,"theo như yêu cầu của môn học , sinh viên phải mang lap để làm bài tập , tuy nhiên ổ cắm trong phòng chỉ có 2 ổ , không đáp ứng được nhu cầu dạy và học của giảng viên lẫn sinh viên .",negative
+326,đồ án thực hành khác xa so với lý thuyết học trên lớp .,negative
+327,giảng viên dạy tận tâm nhiệt tình .,positive
+328,kiến thức môn học mang lại tương đối đầy đủ và thực tế giúp sinh viên nắm rõ phương pháp và cách thức để học tập các môn chuyên ngành sau này .,positive
+329,lượng kiến thức quá nhiều trong một học kỳ .,negative
+330,"giảng viên hòa đồng , vui vẻ , tận tình giải đáp thắc mắc của sinh viên .",positive
+331,"giảng viên tận tâm , nhiệt tình , cho sinh viên thuyết trình các chủ đề cho trước , giúp sinh viên tăng cường khả năng làm việc nhóm .",positive
+332,đợi các bạn ngồi vào bàn hết cô mới sắp xếp chỗ ngồi nên gây mất thời gian làm bài của sinh viên .,negative
+333,thầy ít khi nhắc lại về phần đã dạy hôm trước .,negative
+334,theo em nghĩ anh văn cần 2 tiết là đủ .,negative
+335,"giảng viên tăng cường giải bài tập , giúp sinh viên dễ hiểu bài .",positive
+336,điều em hài lòng nhất đó là thầy đi rất đúng giờ và không dạy quá nhanh .,positive
+337,"phong cách dạy của thầy làm cho sinh viên thấy gần gũi , tạo cảm giác nắm bắt , hiểu được bài giảng tốt hơn .",positive
+338,"giảng viên dạy nhiệt tình , truyền đạt kiến dễ hiểu .",positive
+339,giảng viên có cập nhật thông tin mới nhất về tình hình thực tế .,positive
+340,cô giảng bài nhanh quá colonsad .,negative
+341,thầy có thể giảng sâu hơn về trọng tâm của bài hơn một chút nữa được không ạ .,negative
+342,thầy hay dạy lố giờ sang thời gian ăn trưa .,negative
+343,giảng viên tạo cảm hứng cho sinh viên học tập .,positive
+344,nên có nhiều môn học hơn .,negative
+345,"cô rất vui tính , nhiệt tình , giảng bài tập chi tiết , dễ hiểu .",positive
+346,cô không nói bằng micro nên nghe rất khó .,negative
+347,"vui vẻ , dễ hiểu .",positive
+348,giảng viên có kiến thức chuyên sâu về môn học .,positive
+349,"giáo viên hướng dẫn thực hành đến lớp trễ , và chưa hướng dẫn sâu sắc để sinh viên dễ dàng nắm được bài .",negative
+350,cần nâng cao chất lượng cơ sở vật chất hơn .,negative
+351,"thấy rất hiền , rất chi là hơi trẻ con .",positive
+352,"cô dạy dễ hiểu , vui vẻ với sinh viên , cung cấp đầy đủ kiến thức cần thiết .",positive
+353,"hơn nữa , lại dùng silverlight , dẫn đến tình trạng nhiều bạn không muốn học , vì học silverlight xong rồi , giờ đâu ai dùng nữa .",negative
+354,thầy rất thoáng và thoải mái .,positive
+355,"thầy giáo tận tình , dạy kỹ , thường đưa ra câu hỏi để xem xét mức độ hiểu biết của sinh viên .",positive
+356,tiết học chưa được thu hút .,negative
+357,"giảng viên nhiệt tình , quan tâm đến hầu hết các sinh viên trong lớp .",positive
+358,"vui , hòa đồng , nhiệt tình .",positive
+359,"em và các bạn thuộc các lớp phần mềm chất lượng cao hầu như không ai muốn đăng ký môn học game cơ bản do giảng viên này đảm nhận , nhưng kỳ vừa rồi nhà trường chỉ cung cấp cho chúng em duy nhất một sự lựa chọn là giảng viên này nên chúng em không còn cách nào khác .",negative
+360,cô hay dạy lố giờ .,negative
+361,luôn đảm bảo giờ giấc trong tiết học .,positive
+362,thầy rất tận tình và đi dạy rất đúng giờ .,positive
+363,"không thống nhất trước về hình thức thi và làm bài tập , đến những tuần cuối cùng mới công bố .",negative
+364,"hay , nhiệt tình , dễ hiểu .",positive
+365,thấy nhiệt tình trong việc trao đổi giúp đỡ về học tập .,positive
+366,nhiều lúc thầy vẫn nói lý thuyết nhiều gây nhàm chán .,negative
+367,"thầy dạy dạy hay , nhiệt tình , vui vẻ .",positive
+368,khi sinh viên hỏi phải có câu trả lời chính xác không được bỏ qua những câu hỏi của sinh viên .,negative
+369,phản hồi giải đáp thắc mắc cho sinh viên .,positive
+370,"làm tốn thời gian truyền đạt , dẫn đến hứng thú lên lớp nghe giảng bị hạn chế .",negative
+371,"hệ thống đồ án chấm điểm theo mức độ hoàn thành của sinh viên , tạo sự ganh đua không hề nhẹ với những nhóm làm chung đồ án , kích thích sáng tạo không ngừng tìm hiểu xây dựng thêm chức năng mới cho đồ án nếu muốn được điểm cao .",positive
+372,"cô dạy quá hay quá xuất sắc , rất tâm huyết với nghề , cô nghỉ ngày nào sẽ bù ngày đó nhiều lúc còn bù thêm , cô chỉ rất cặn kẽ những vấn đề cần thiết .",positive
+373,cần cung cấp mục tiêu môn học .,negative
+374,"thầy sử dụng tiếng anh và tiếng việt lẫn lộn , gây khó hiểu .",negative
+375,thầy dạy hay tận tình .,positive
+376,thầy vui quá đi hi hi .,positive
+377,nên thay đổi các hoạt động khác nhau hoàn toàn .,negative
+378,"vui tính , thân thiện .",positive
+379,"nhiệt tình , luôn giúp đỡ học sinh .",positive
+380,"cung cấp thêm tài liệu phục vụ môn học cho sinh viên , trình bày rõ mục tiêu bài học và sử dụng giờ lên lớp một cách hiệu quả hơn .",negative
+381,thầy hầu như không giải đáp thắc mắc của sinh viên khi bài tập mắc lỗi hoặc có nhưng rất hời hợt .,negative
+382,"thầy truyền đạt chưa được tốt lắm , khó hình dung .",negative
+383,nhưng thầy cũng cho thời gian hỏi lại những điều chưa hiểu .,positive
+384,cải thiện chất lượng phòng học và các trang thiết bị hỗ trợ việc học tập .,negative
+385,cô rất tận tình với sinh viên .,positive
+386,thầy rất tận tâm nhưng không có kỹ năng sư phạm .,negative
+387,"giảng viên giảng bài hơi nhàm chán , gây cảm giác buồn ngủ , có nhiều chỗ hơi lan man .",negative
+388,em rất hài lòng về giờ thực hành này .,positive
+389,"nội dung giảng dạy quá nhàm chán , khô khan .",negative
+390,"thường xuyên tổ chức thảo luận , thực hành nói .",positive
+391,cải tiến trang thiết bị phòng thực hành .,negative
+392,trang thiết bị nên tốt hơn .,negative
+393,thiếu thiết bị thật để thực hành .,negative
+394,"quan tâm đến học , giảng dạy tận tâm , dễ hiểu .",positive
+395,nhiều khi dạy quá thời gian .,negative
+396,lên lớp toàn cho làm paper .,negative
+397,nên cho thời gian học nhiều hơn 2 tiết .,negative
+398,không hướng dẫn đồ án .,negative
+399,"sử dụng hợp lý thời gian lên lớp , giúp đỡ sinh viên nhiều hơn trong quá trình học trên lớp .",negative
