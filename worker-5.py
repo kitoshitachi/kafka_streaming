@@ -15,7 +15,6 @@ def main():
             key = f"{record['id']}_{record['domain']}"
             if key not in mapper.keys():
                 mapper[key] = {"negative":0,"positive":0}
-                print(f"success: {key}")
             else:
                 mapper[key][record['label']] += 1
 
@@ -24,7 +23,7 @@ def main():
                     print('deleted')
                 elif mapper[key][record['label']] > 1:
                     result = collection.insert_one(record)
-                    print(result)
+                    print(f"success: {key}")
 
                 print(mapper[key][record['label']])
                 print(record)
