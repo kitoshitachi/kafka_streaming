@@ -1,5 +1,5 @@
 import socket, json, re, pickle
-from kafka import KafkaProducer, KafkaConsumer, KafkaAdminClient
+from kafka import KafkaProducer, KafkaConsumer, KafkaAdminClient, TopicPartition
 from settings import BOOTSTRAP_SERVERS, NUM_PARTITIONS, REPLICATION_FACTOR, DOMAINS
 from kafka.errors import TopicAlreadyExistsError
 from kafka.admin.new_topic import NewTopic
@@ -41,24 +41,39 @@ def create_producer():
     return producer
 
 
-def create_consumer(topic, group_id):
+def create_consumer(topic, group_id:str=None, partition:int=None) -> KafkaConsumer:
     '''creat kafka consumer'''
     try:
-        consumer = KafkaConsumer(topic,
-            bootstrap_servers=BOOTSTRAP_SERVERS,
-            group_id=group_id,
-            # enable_auto_commit = True,
-            # max_poll_records=1,
-            # max_poll_interval_ms=5000,
-            # auto_offset_reset='earliest',
-            value_deserializer=json_decode,
-        )
+        if group_id is None:
+            if partition is None:
+                raise Exception
+            else:
+                consumer = KafkaConsumer(
+                    bootstrap_servers=BOOTSTRAP_SERVERS,
+                    value_deserializer=json_decode
+                )
+                tp = [TopicPartition(topic,partition)]
+                consumer.assign(tp)
+                consumer.seek_to_beginning()  
+
+        else:
+            consumer = KafkaConsumer(topic,
+                bootstrap_servers=BOOTSTRAP_SERVERS,
+                group_id=group_id,
+                enable_auto_commit = True,
+                max_poll_records=1,
+                max_poll_interval_ms=5000,
+                auto_offset_reset='earliest',
+                value_deserializer=json_decode
+            )
         # consumer
     except Exception as e:
         print(f"Couldn't create the consumer. {e}")
         # logging.exception(f"Couldn't create the consumer. {e}")
         # consumer = None
     return consumer
+
+
 
 def create_topic(topic_name:str):
     client = KafkaAdminClient(bootstrap_servers=BOOTSTRAP_SERVERS)

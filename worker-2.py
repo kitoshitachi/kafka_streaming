@@ -11,6 +11,8 @@ def main():
 
             record = message.value
             record['label'] = LABELS[models[record['domain']].predict(record['text_feature'])[0]]
+            del record['text_feature']
+
             producer.send(TOPIC_RESULT, value=record, partition= DOMAINS.index(record['domain']))
             producer.flush()
 

@@ -1,5 +1,5 @@
 from utils import create_consumer, create_producer
-from settings import DOMAINS, TOPIC_LOW_MODEL, GROUP_SVM, MODEL_DIR, TOPIC_RESULT, LABELS
+from settings import DOMAINS, TOPIC_LOW_MODEL, GROUP_NB, MODEL_DIR, TOPIC_RESULT, LABELS
 import pickle
 
 def main():
@@ -11,6 +11,8 @@ def main():
 
             record = message.value
             record['label'] = LABELS[models[record['domain']].predict(record['text_feature'])[0]]
+            del record['text_feature']
+
             producer.send(TOPIC_RESULT, value=record, partition= DOMAINS.index(record['domain']))
             producer.flush()
 
@@ -23,7 +25,7 @@ def main():
         producer.close()
 
 if __name__ == "__main__":
-    consumer = create_consumer(TOPIC_LOW_MODEL, GROUP_SVM)
+    consumer = create_consumer(TOPIC_LOW_MODEL, GROUP_NB)
     producer = create_producer()
     if consumer is not None and producer is not None:
         main()

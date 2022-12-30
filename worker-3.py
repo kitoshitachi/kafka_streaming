@@ -17,6 +17,7 @@ def main():
                 record = message.value
                 record['label'] = models[record['domain']](record['text_feature']) >= 0.5
                 record['label'] = LABELS[record['label']]
+                del record['text_feature']
                 producer.send(TOPIC_RESULT, value=record, partition= DOMAINS.index(record['domain']))
                 producer.flush()
 
